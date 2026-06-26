@@ -1,0 +1,4 @@
+import my module 
+Print("MOne da")
+print("Nthg")
+print("HI!")
