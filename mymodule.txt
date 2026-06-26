@@ -1,4 +1,8 @@
 print("This is my first project")
+<<<<<<< HEAD
 print("First commit")
 print("Second commit")
 
+=======
+print("First commit")
+>>>>>>> parent of e8ed9c5 (test commit 2)
