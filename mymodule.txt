@@ -1,4 +1,2 @@
-print("THIS IS ABHINAV SB")
-print("This is my 5th line")
-hgdgfhj
-newline
+print("This is my first project")
+print("First commit")
